@@ -1,0 +1,21 @@
+C:\Users\Hp\source\repos\BankacılıkUygulumasi\BankacılıkUygulumasi\obj\Debug\BankacılıkUygulumasi.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\BankacılıkUygulumasi\BankacılıkUygulumasi\obj\Debug\BankacılıkUygulumasi.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\BankacılıkUygulumasi\BankacılıkUygulumasi\bin\Debug\BankacılıkUygulumasi.exe.config
+C:\Users\Hp\source\repos\BankacılıkUygulumasi\BankacılıkUygulumasi\bin\Debug\BankacılıkUygulumasi.exe
+C:\Users\Hp\source\repos\BankacılıkUygulumasi\BankacılıkUygulumasi\bin\Debug\BankacılıkUygulumasi.pdb
+C:\Users\Hp\source\repos\BankacılıkUygulumasi\BankacılıkUygulumasi\obj\Debug\BankacılıkUygulumasi.exe
+C:\Users\Hp\source\repos\BankacılıkUygulumasi\BankacılıkUygulumasi\obj\Debug\BankacılıkUygulumasi.pdb
+C:\Users\Hp\Desktop\BankacılıkUygulumasi\BankacılıkUygulumasi\bin\Debug\BankacılıkUygulumasi.exe.config
+C:\Users\Hp\Desktop\BankacılıkUygulumasi\BankacılıkUygulumasi\bin\Debug\BankacılıkUygulumasi.exe
+C:\Users\Hp\Desktop\BankacılıkUygulumasi\BankacılıkUygulumasi\bin\Debug\BankacılıkUygulumasi.pdb
+C:\Users\Hp\Desktop\BankacılıkUygulumasi\BankacılıkUygulumasi\obj\Debug\BankacılıkUygulumasi.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\BankacılıkUygulumasi\BankacılıkUygulumasi\obj\Debug\BankacılıkUygulumasi.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\BankacılıkUygulumasi\BankacılıkUygulumasi\obj\Debug\BankacılıkUygulumasi.exe
+C:\Users\Hp\Desktop\BankacılıkUygulumasi\BankacılıkUygulumasi\obj\Debug\BankacılıkUygulumasi.pdb
+C:\Users\Hp\Desktop\CSC ÖDEV\Mobil Banka Uygulamasi- FİNAL\BankacılıkUygulumasi\BankacılıkUygulumasi\bin\Debug\BankacılıkUygulumasi.exe.config
+C:\Users\Hp\Desktop\CSC ÖDEV\Mobil Banka Uygulamasi- FİNAL\BankacılıkUygulumasi\BankacılıkUygulumasi\bin\Debug\BankacılıkUygulumasi.exe
+C:\Users\Hp\Desktop\CSC ÖDEV\Mobil Banka Uygulamasi- FİNAL\BankacılıkUygulumasi\BankacılıkUygulumasi\bin\Debug\BankacılıkUygulumasi.pdb
+C:\Users\Hp\Desktop\CSC ÖDEV\Mobil Banka Uygulamasi- FİNAL\BankacılıkUygulumasi\BankacılıkUygulumasi\obj\Debug\BankacılıkUygulumasi.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\CSC ÖDEV\Mobil Banka Uygulamasi- FİNAL\BankacılıkUygulumasi\BankacılıkUygulumasi\obj\Debug\BankacılıkUygulumasi.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\CSC ÖDEV\Mobil Banka Uygulamasi- FİNAL\BankacılıkUygulumasi\BankacılıkUygulumasi\obj\Debug\BankacılıkUygulumasi.exe
+C:\Users\Hp\Desktop\CSC ÖDEV\Mobil Banka Uygulamasi- FİNAL\BankacılıkUygulumasi\BankacılıkUygulumasi\obj\Debug\BankacılıkUygulumasi.pdb
