@@ -1,2 +1,2 @@
-# MobilBankaUygulamas-
+# MobilBankaUygulaması-
 Oop final ödevi
