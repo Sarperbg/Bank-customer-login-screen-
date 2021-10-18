@@ -1,2 +1,1 @@
-# MobilBankaUygulaması-
-Oop final ödevi
+## Nesne Tabanlı Programlama dersi final projesi.
